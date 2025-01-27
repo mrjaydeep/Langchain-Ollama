@@ -9,7 +9,7 @@ def get_ollama_response2(input_text):
     response=requests.post("http://localhost:8000/essay/invoke",json={'input':{'sports':input_text}})
     return response.json()['output']
 
-st.title('Langchain Demo With LLAMA2 API')
+st.title('Langchain Demo With LLAMA3.2 API')
 input_text=st.text_input("Write an essay on sports:")
 input_text1=st.text_input("Write a poem on")
 
