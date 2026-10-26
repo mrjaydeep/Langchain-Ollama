@@ -1,11 +1,5 @@
 # Langchain-Ollama
 
-Here's an updated README that incorporates your use of FastAPI for `app.py` and `client.py`:
-
----
-
-# Langchain-Ollama
-
 This repository demonstrates my journey in exploring and integrating **LangChain** and **Ollama**. Through this project, I aim to enhance my understanding of conversational AI frameworks, their architectures, and practical applications.
 
 ---
